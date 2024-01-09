@@ -1,16 +1,21 @@
 {
   "files": {
+    "logo.svg": {
+      "name": "logo.svg",
+      "hash": "E5C26FBE6E539422FECB83E27FC34EAA4BC5514DBA0FE388B99DB7F45F4B4E5E",
+      "size": 4981
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "hash": "7B1FC19387987E3DFE09939CF58A986F05D2FCC80E56AA71485CF0973C54ED2B",
+      "size": 272
+    },
     "FASTN.ftd": {
       "name": "FASTN.ftd",
       "hash": "16BF8C76FA753BD60117F7053A99E0C1329635E564B831542DD4A0928A41CF82",
       "size": 72
-    },
-    "index.ftd": {
-      "name": "index.ftd",
-      "hash": "CA859E0F0AF466928D3D42880FBF0913FAB2D1DB28C3024F9EE10D607AFD8493",
-      "size": 74
     }
   },
-  "zip_url": "https://github.com/harshdoesdev/package-man/zipball/master/",
-  "checksum": "C63C406F7182A67C0EBAB9970872D2A1A9320BB7D6C40FAADBEDF5031D6D42AD"
+  "zip_url": "",
+  "checksum": "395C03A7899AB135B8D38A4CCE8DB6FD82F059E649DDAC30EB4C8265F84890F4"
 }
