@@ -15,6 +15,7 @@ jobs:
       - name: Pull the latest commits
         run: git pull
       - uses: FranzDiebold/github-env-vars-action@v2
+      - run: sh -c "$(curl -fsSL https://fastn.com/install.sh)"
       - name: Get latest commit information
         id: get_commit
         run: echo "::set-output name=commit_sha::$(git rev-parse HEAD)"
