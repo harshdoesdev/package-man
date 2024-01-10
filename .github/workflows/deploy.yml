@@ -22,7 +22,7 @@ jobs:
       - name: Get raw zipball URL
         id: get_zip_url
         run: |
-            echo "::set-output name=zip_url::$(curl -sH 'Accept: application/vnd.github.v3+json' https://api.github.com/repos/${{ github.repository }}/commits/${{ steps.get_commit.outputs.commit_sha }}/zipball | jq -r '.url')"
+          echo "::set-output name=zip_url::https://github.com/${{ github.repository }}/archive/${{ steps.get_commit.outputs.commit_sha }}.zip"
       - name: Build the pages with fastn
         run: |
           echo "Using '$CI_REPOSITORY_NAME_SLUG/' as the base while building"
