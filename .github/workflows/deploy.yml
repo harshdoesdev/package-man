@@ -1,9 +1,10 @@
-name: Rename and Deploy Site
+name: Deploy Site
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   build:
