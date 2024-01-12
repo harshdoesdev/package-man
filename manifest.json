@@ -5,17 +5,17 @@
       "hash": "16BF8C76FA753BD60117F7053A99E0C1329635E564B831542DD4A0928A41CF82",
       "size": 72
     },
-    "index.ftd": {
-      "name": "index.ftd",
-      "hash": "7B1FC19387987E3DFE09939CF58A986F05D2FCC80E56AA71485CF0973C54ED2B",
-      "size": 272
-    },
     "logo.svg": {
       "name": "logo.svg",
       "hash": "E5C26FBE6E539422FECB83E27FC34EAA4BC5514DBA0FE388B99DB7F45F4B4E5E",
       "size": 4981
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "hash": "7B1FC19387987E3DFE09939CF58A986F05D2FCC80E56AA71485CF0973C54ED2B",
+      "size": 272
     }
   },
-  "zip_url": "https://github.com/harshdoesdev/package-man/archive/7e2a86e908af418b3a962ddceb8a1483aa0d15f4.zip",
+  "zip_url": "https://github.com/harshdoesdev/package-man/archive/3c86eebb8d774fd295f5f40697272cf5bc09a598.zip",
   "checksum": "395C03A7899AB135B8D38A4CCE8DB6FD82F059E649DDAC30EB4C8265F84890F4"
 }
