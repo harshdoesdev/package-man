@@ -1,0 +1,26 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "16BF8C76FA753BD60117F7053A99E0C1329635E564B831542DD4A0928A41CF82",
+      "size": 72
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "7B1FC19387987E3DFE09939CF58A986F05D2FCC80E56AA71485CF0973C54ED2B",
+      "size": 272
+    },
+    "logo.svg": {
+      "name": "logo.svg",
+      "checksum": "E5C26FBE6E539422FECB83E27FC34EAA4BC5514DBA0FE388B99DB7F45F4B4E5E",
+      "size": 4981
+    },
+    "test.ftd": {
+      "name": "test.ftd",
+      "checksum": "144400E7950CDEAC843070FF5FB20ECE4FC58BCD057BB5B6AF2BAC46843F5D71",
+      "size": 25
+    }
+  },
+  "zip_url": "https://codeload.github.com/harshdoesdev/package-man/zip/refs/heads/main",
+  "checksum": "9E3AE25EC6A4A7F09B50B39BEB975E5591AD8A87575C44004796389CD42C27FB"
+}
