@@ -2,20 +2,25 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "hash": "16BF8C76FA753BD60117F7053A99E0C1329635E564B831542DD4A0928A41CF82",
+      "checksum": "16BF8C76FA753BD60117F7053A99E0C1329635E564B831542DD4A0928A41CF82",
       "size": 72
-    },
-    "logo.svg": {
-      "name": "logo.svg",
-      "hash": "E5C26FBE6E539422FECB83E27FC34EAA4BC5514DBA0FE388B99DB7F45F4B4E5E",
-      "size": 4981
     },
     "index.ftd": {
       "name": "index.ftd",
-      "hash": "7B1FC19387987E3DFE09939CF58A986F05D2FCC80E56AA71485CF0973C54ED2B",
+      "checksum": "7B1FC19387987E3DFE09939CF58A986F05D2FCC80E56AA71485CF0973C54ED2B",
       "size": 272
+    },
+    "logo.svg": {
+      "name": "logo.svg",
+      "checksum": "E5C26FBE6E539422FECB83E27FC34EAA4BC5514DBA0FE388B99DB7F45F4B4E5E",
+      "size": 4981
+    },
+    "test.ftd": {
+      "name": "test.ftd",
+      "checksum": "144400E7950CDEAC843070FF5FB20ECE4FC58BCD057BB5B6AF2BAC46843F5D71",
+      "size": 25
     }
   },
-  "zip_url": "https://github.com/harshdoesdev/package-man/archive/3c86eebb8d774fd295f5f40697272cf5bc09a598.zip",
-  "checksum": "395C03A7899AB135B8D38A4CCE8DB6FD82F059E649DDAC30EB4C8265F84890F4"
+  "zip_url": "https://github.com/harshdoesdev/package-man/archive/382406216afeb8288cec03d711d781871b280827.zip",
+  "checksum": "9E3AE25EC6A4A7F09B50B39BEB975E5591AD8A87575C44004796389CD42C27FB"
 }
